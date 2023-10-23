@@ -1,0 +1,7 @@
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\bin\Debug\Caesar Cipher C#.exe.config
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\bin\Debug\Caesar Cipher C#.exe
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\bin\Debug\Caesar Cipher C#.pdb
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\obj\Debug\Caesar Cipher C#.csproj.AssemblyReference.cache
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\obj\Debug\Caesar Cipher C#.csproj.CoreCompileInputs.cache
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\obj\Debug\Caesar Cipher C#.exe
+D:\Stuff\Coding\Studies\Personal Projects\Caesar Cipher C#\Caesar Cipher C#\obj\Debug\Caesar Cipher C#.pdb
